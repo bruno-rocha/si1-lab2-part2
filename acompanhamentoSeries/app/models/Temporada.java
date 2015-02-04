@@ -106,14 +106,17 @@ public class Temporada {
 		
 		for (int i = qtdEpisodios-1; i >= 0; i--) {
 			if(episodios.get(i).isAssistido()){
-				if(i < qtdEpisodios-2)
+				if((i+1) == qtdEpisodios)
+					result = "Você já assistiu ao último episódio desta temporada.";
+				else	
 					result = episodios.get(i+1).getNumero() + " - " + episodios.get(i+1).getNome();
+				break;
 			}
 		}
 		
-		if(episodios.get(qtdEpisodios-1).isAssistido()){
+		/*if(episodios.get(qtdEpisodios-1).isAssistido()){
 			result = "Você já assistiu ao último episódio desta temporada.";
-		}
+		}*/
 		
 		return result;
 	}
