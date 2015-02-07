@@ -113,11 +113,23 @@ public class Temporada {
 				break;
 			}
 		}
-		
+
 		/*if(episodios.get(qtdEpisodios-1).isAssistido()){
 			result = "Você já assistiu ao último episódio desta temporada.";
 		}*/
-		
+
+		return result;
+	}
+
+	public String getEpisodioMaisAntigo(){
+		String result = episodios.get(0).getNumero() + " - " + episodios.get(0).getNome();
+
+		for (int i = 0; i <= qtdEpisodios-1; i++) {
+			if(!episodios.get(i).isAssistido()){
+				result = episodios.get(i).getNumero() + " - " + episodios.get(i).getNome();
+				break;
+			}
+		}
 		return result;
 	}
 	
