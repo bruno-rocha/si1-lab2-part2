@@ -8,9 +8,9 @@ import javax.persistence.*;
 @Entity(name="Serie")
 public class Serie {
 	@Transient
-	private int EP_SEGUINTE = 1;
+	private final int EP_SEGUINTE = 1;
 	@Transient
-	private int EP_MAIS_ANTIGO = 2;
+	private final int EP_MAIS_ANTIGO = 2;
 
 	@Id
 	@GeneratedValue

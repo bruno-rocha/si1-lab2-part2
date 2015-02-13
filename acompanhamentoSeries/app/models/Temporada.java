@@ -8,11 +8,11 @@ import javax.persistence.*;
 @Entity(name="Temporada")
 public class Temporada {
 	@Transient
-	private int COMPLETA = 1;
+	private final int COMPLETA = 1;
 	@Transient
-	private int INCOMPLETA = 0;
+	private final int INCOMPLETA = 0;
 	@Transient
-	private int TOTAL_INCOMPLETA = -1;
+	private final int TOTAL_INCOMPLETA = -1;
 	
 	@Id
 	@GeneratedValue
@@ -114,13 +114,15 @@ public class Temporada {
 			}
 		}
 		
-		if(cont == 0)
+		if(cont == 0){
 			status = TOTAL_INCOMPLETA;
-		if(cont > 0)
+		}
+		if(cont > 0) {
 			status = INCOMPLETA;
-		if(cont == qtdEpisodios || episodios.get(qtdEpisodios-1).isAssistido())
+		}
+		if(cont == qtdEpisodios || episodios.get(qtdEpisodios-1).isAssistido()) {
 			status = COMPLETA;
-		
+		}
 		return status;
 	}
 	

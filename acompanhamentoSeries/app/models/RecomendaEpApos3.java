@@ -8,7 +8,7 @@ import java.util.List;
  */
 @Entity
 public class RecomendaEpApos3 extends Recomendacao{
-
+    private final int LIMITE = 3;
     @Override
     public String getProximoEpisodio(Temporada temporada){
         List<Episodio> episodios = temporada.getEpisodios();
@@ -25,7 +25,7 @@ public class RecomendaEpApos3 extends Recomendacao{
             }else if (episodios.get(i).isAssistido() && flag == true){
                 aux++;
             }
-            if (aux == 3){
+            if (aux == LIMITE){
                 proxEp = -1;
                 aux = 0;
                 flag = false;
