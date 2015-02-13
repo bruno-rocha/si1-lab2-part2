@@ -445,3 +445,6 @@ Próximo ep por opção 3
 2015-02-13 15:07:15,258 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
 Assistiu ep The Midnight Ride
 
+2015-02-13 15:21:39,931 - [INFO] - from application in pool-4-thread-2 
+Aplicação finalizando...
+
