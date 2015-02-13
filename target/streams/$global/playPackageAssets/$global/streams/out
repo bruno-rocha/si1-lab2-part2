@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /home/brunovr/Documentos/SI1/si1-lab2-part2/target/acompanhamentoseries-1.0-SNAPSHOT-assets.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap-theme.min.css[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap-theme.min.css[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap.css.map[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap.css.map[0m
+[0m[[0mdebug[0m] [0m	public/javascripts/bootstrap.js[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/javascripts/bootstrap.js[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/main.css[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/main.css[0m
+[0m[[0mdebug[0m] [0m	public/javascripts/bootstrap.min.js[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/javascripts/bootstrap.min.js[0m
+[0m[[0mdebug[0m] [0m	public/images[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/images[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap-theme.css[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap-theme.css[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap.css[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap.css[0m
+[0m[[0mdebug[0m] [0m	public/libraries[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/libraries[0m
+[0m[[0mdebug[0m] [0m	public/libraries/opencsv-2.4.jar[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/libraries/opencsv-2.4.jar[0m
+[0m[[0mdebug[0m] [0m	public/javascripts[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/javascripts[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap.min.css[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap.min.css[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets/bootstrap-theme.css.map[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets/bootstrap-theme.css.map[0m
+[0m[[0mdebug[0m] [0m	public/stylesheets[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/stylesheets[0m
+[0m[[0mdebug[0m] [0m	public/images/favicon.png[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/images/favicon.png[0m
+[0m[[0mdebug[0m] [0m	public/javascripts/hello.js[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/public/javascripts/hello.js[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

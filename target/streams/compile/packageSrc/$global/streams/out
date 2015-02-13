@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging /home/brunovr/Documentos/SI1/si1-lab2-part2/target/scala-2.11/acompanhamentoseries_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	models/Episodio.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/Episodio.java[0m
+[0m[[0mdebug[0m] [0m	models/RecomendaEpApos3.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/RecomendaEpApos3.java[0m
+[0m[[0mdebug[0m] [0m	models/Serie.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/Serie.java[0m
+[0m[[0mdebug[0m] [0m	models/Recomendacao.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/Recomendacao.java[0m
+[0m[[0mdebug[0m] [0m	META-INF/persistence.xml[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/conf/META-INF/persistence.xml[0m
+[0m[[0mdebug[0m] [0m	Global.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/Global.java[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	META-INF[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/conf/META-INF[0m
+[0m[[0mdebug[0m] [0m	models/RecomendaEpSeguinte.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/RecomendaEpSeguinte.java[0m
+[0m[[0mdebug[0m] [0m	models/RecomendaEpAntigo.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/RecomendaEpAntigo.java[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/conf/routes[0m
+[0m[[0mdebug[0m] [0m	models/dao/GenericDAO.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/dao/GenericDAO.java[0m
+[0m[[0mdebug[0m] [0m	seriesFinalFile.csv[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/conf/seriesFinalFile.csv[0m
+[0m[[0mdebug[0m] [0m	models/Temporada.java[0m
+[0m[[0mdebug[0m] [0m	  /home/brunovr/Documentos/SI1/si1-lab2-part2/app/models/Temporada.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
