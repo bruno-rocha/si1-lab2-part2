@@ -4,7 +4,7 @@
 		module="acompanhamentoseries$sources_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150213144433"
+		publication="20150213201253"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
-    <facet type="scala" name="Scala">
-      <configuration>
-        <option name="compilerLibraryLevel" value="Project" />
-        <option name="compilerLibraryName" value="SBT:: scala-compiler-bundle:2.11.1" />
-        <option name="compilerOptions" value="-encoding utf8" />
-        <option name="deprecationWarnings" value="true" />
-        <option name="uncheckedWarnings" value="true" />
-      </configuration>
-    </facet>
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
@@ -121,7 +112,6 @@
     <orderEntry type="library" scope="TEST" name="SBT: org.objenesis:objenesis:1.0" level="project" />
     <orderEntry type="library" name="SBT: org.reflections:reflections:0.9.8" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.scala-lang:scala-compiler:2.11.0" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.1" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.11.1" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.1" level="project" />
     <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.1" level="project" />
@@ -165,6 +155,7 @@
     <orderEntry type="library" name="SBT: xerces:xercesImpl:2.11.0" level="project" />
     <orderEntry type="library" name="SBT: xml-apis:xml-apis:1.4.01" level="project" />
     <orderEntry type="library" name="SBT: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.1" level="project" />
   </component>
 </module>
 
