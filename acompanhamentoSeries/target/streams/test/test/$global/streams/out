@@ -1,0 +1,28 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for com.novocode.junit.JUnitFramework produced 2 initial tasks for 2 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(SerieTest, sbt.ForkMain$AnnotatedFingerscan@c83d20, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mSerieTest[0m.[36mconstrutorSerieTest[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mSerieTest[0m.[36mconstrutorSerieTest[0m finished, took 0.029 sec[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 0.083s[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(TemporadaTest, sbt.ForkMain$AnnotatedFingerscan@a24e1b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0m[34mTest run started[0m[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mconstrutorTemporadaTest[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mconstrutorTemporadaTest[0m finished, took 0.001 sec[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaStatus[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaStatus[0m finished, took 0.001 sec[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaProximoEp[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaProximoEp[0m finished, took 0.002 sec[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaAddEp[0m started[0m
+[0m[[0mdebug[0m] [0mTest [33mTemporadaTest[0m.[36mtestaAddEp[0m finished, took 0.001 sec[0m
+[0m[[0mdebug[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 4 total, 0.009s[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0mRunner for org.specs2.runner.Specs2Framework produced 0 initial tasks for 0 tests.[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 5, Failed 0, Errors 0, Passed 5[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	SerieTest[0m
+[0m[[0mdebug[0m] [0m	TemporadaTest[0m

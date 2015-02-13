@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+.green-bg {
+	background-color:#E0FFE7;
+}
+
+.lightgreen-bg {
+	background-color:#F2FFF2;
+}
+
+.yellow-bg {
+	background-color:#F5FFD1;
+}
+
+.blue-bg {
+	background-color:#A1D0ED;
+}
+
+#bg{
+	background-image: url("http://planete-issam.e-monsite.com/medias/images/series-tv-29-avril-2013.jpg");
+}
+
+
+#header{
+	background-image: url("http://static.tumblr.com/ibcdiqw/w1Wlvg8df/12_-_degrad___cinza.png");
+}
+
+
+.h1 {
+	background-image: image("public/images/signbot.gif");
+	text-align: center;
+}

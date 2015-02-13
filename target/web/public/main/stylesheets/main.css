@@ -22,11 +22,15 @@
 
 
 #header{
-	background-image: url("http://static.tumblr.com/ibcdiqw/w1Wlvg8df/12_-_degrad___cinza.png");
+	background-image: url("http://bgfons.com/upload/aluminum_texture1784.jpg");
+	border: 5px outset grey;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
 }
 
 
-.h1 {
-	background-image: image("public/images/signbot.gif");
+#title {
 	text-align: center;
+	color: white;
 }

@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/brunovr/Documentos/SI1/si1-lab2-part2/project/}si1-lab2-part2-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/Bruno/Documents/GitHub/si1-lab2-part2/project/}si1-lab2-part2-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#si1-lab2-part2-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -26,12 +26,12 @@
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: com.typesafe.play#play-exceptions;2.3.7[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.play#play-exceptions;2.3.7 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->runtime(*)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->master(*)][0m
 [0m[[0minfo[0m] [0mResolving org.javassist#javassist;3.18.2-GA ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.javassist#javassist;3.18.2-GA {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
@@ -39,12 +39,12 @@
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.javassist#javassist;3.18.2-GA[0m
 [0m[[0mdebug[0m] [0m	found org.javassist#javassist;3.18.2-GA in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->default(compile)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->master][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->runtime(*)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->com.typesafe.play#play-exceptions;2.3.7 [runtime->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#build-link;2.3.7->org.javassist#javassist;3.18.2-GA [runtime->runtime(*)][0m
@@ -299,9 +299,9 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->master(*)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->com.google.guava#guava;16.0.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.play#sbt-plugin;2.3.7->org.avaje.ebeanorm#avaje-ebeanorm-agent;3.2.2 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.avaje.ebeanorm#avaje-ebeanorm-agent;3.2.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.avaje.ebeanorm#avaje-ebeanorm-agent;3.2.2 {compile=[default(compile)]}[0m
@@ -519,16 +519,16 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.commons#commons-compress;1.7->org.tukaani#xz;1.4 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.commons#commons-compress;1.7->org.tukaani#xz;1.4 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.commons#commons-compress;1.7->org.tukaani#xz;1.4 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->default(compile)][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.commons#commons-compress;1.7->org.tukaani#xz;1.4 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.apache.commons#commons-compress;1.7->org.tukaani#xz;1.4 [runtime->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->compile][0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.commons#commons-compress;1.7 [compile->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.vafer#jdeb;1.3->org.apache.maven#maven-core;3.2.2 [compile->master(*)][0m
 [0m[[0minfo[0m] [0mResolving org.apache.maven#maven-core;3.2.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.maven#maven-core;3.2.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
@@ -12678,8 +12678,8 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.webjars#diff;1.0.7!diff.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#sbt;0.13.5!sbt.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#main;0.13.5!main.jar[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.5!compiler-interface-bin.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.5!compiler-interface-src.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.5!compiler-interface-bin.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.5!compiler-interface-bin.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.5!compiler-interface-bin.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.5!compiler-interface-bin.jar[0m
@@ -12718,19 +12718,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4967ms :: artifacts dl 544ms[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT compile produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT runtime produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT test produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT provided produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT optional produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT compile-internal produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT runtime-internal produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT test-internal produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT plugin produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT sources produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT docs produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT pom produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT scala-tool produced in /home/brunovr/Documentos/SI1/si1-lab2-part2/project/target/resolution-cache/reports/default-si1-lab2-part2-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (4967ms resolve - 544ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 13954ms :: artifacts dl 1355ms[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT compile produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT runtime produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT test produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT provided produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT optional produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT test-internal produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT plugin produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT sources produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT docs produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT pom produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#si1-lab2-part2-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Bruno\Documents\GitHub\si1-lab2-part2\project\target\resolution-cache\reports\default-si1-lab2-part2-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (13954ms resolve - 1355ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

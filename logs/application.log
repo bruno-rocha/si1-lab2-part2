@@ -1,450 +1,855 @@
-2015-02-13 15:05:31,880 - [INFO] - from play in pool-4-thread-2 
+2015-02-13 19:07:44,753 - [INFO] - from play in pool-4-thread-2 
 Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 
-2015-02-13 15:06:02,781 - [INFO] - from play in play-internal-execution-context-1 
+2015-02-13 19:08:44,925 - [INFO] - from play in play-internal-execution-context-1 
 datasource [jdbc:h2:mem:play] bound to JNDI as DefaultDS
 
-2015-02-13 15:06:02,901 - [INFO] - from play in play-internal-execution-context-1 
+2015-02-13 19:08:45,538 - [INFO] - from play in play-internal-execution-context-1 
 database [default] connected at jdbc:h2:mem:play
 
-2015-02-13 15:06:03,951 - [INFO] - from application in play-internal-execution-context-1 
-Aplica√ß√£o inicializada...
+2015-02-13 19:08:49,133 - [INFO] - from application in play-internal-execution-context-1 
+AplicaÁ„o inicializada...
 
-2015-02-13 15:06:04,124 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:49,716 - [INFO] - from application in play-internal-execution-context-1 
 The Unit adicionada ao BD
 
-2015-02-13 15:06:04,145 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:49,758 - [INFO] - from application in play-internal-execution-context-1 
 Family Guy adicionada ao BD
 
-2015-02-13 15:06:04,206 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:49,871 - [INFO] - from application in play-internal-execution-context-1 
 The Simpsons adicionada ao BD
 
-2015-02-13 15:06:04,337 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,107 - [INFO] - from application in play-internal-execution-context-1 
 Masters of Sex adicionada ao BD
 
-2015-02-13 15:06:04,343 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,116 - [INFO] - from application in play-internal-execution-context-1 
 Lilyhammer adicionada ao BD
 
-2015-02-13 15:06:04,349 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,126 - [INFO] - from application in play-internal-execution-context-1 
 Storage Hunters adicionada ao BD
 
-2015-02-13 15:06:04,366 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,152 - [INFO] - from application in play-internal-execution-context-1 
 Sleepy Hollow adicionada ao BD
 
-2015-02-13 15:06:04,373 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,164 - [INFO] - from application in play-internal-execution-context-1 
 8 Out of 10 Cats adicionada ao BD
 
-2015-02-13 15:06:04,431 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,248 - [INFO] - from application in play-internal-execution-context-1 
 Cougar Town adicionada ao BD
 
-2015-02-13 15:06:04,460 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,288 - [INFO] - from application in play-internal-execution-context-1 
 Ancient Aliens adicionada ao BD
 
-2015-02-13 15:06:04,488 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,321 - [INFO] - from application in play-internal-execution-context-1 
 The Big Bang Theory adicionada ao BD
 
-2015-02-13 15:06:04,528 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,385 - [INFO] - from application in play-internal-execution-context-1 
 Arrested Development adicionada ao BD
 
-2015-02-13 15:06:04,545 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,401 - [INFO] - from application in play-internal-execution-context-1 
 Good Eats adicionada ao BD
 
-2015-02-13 15:06:04,625 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,448 - [INFO] - from application in play-internal-execution-context-1 
 The Critic adicionada ao BD
 
-2015-02-13 15:06:04,631 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,452 - [INFO] - from application in play-internal-execution-context-1 
 Good Times adicionada ao BD
 
-2015-02-13 15:06:04,655 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,474 - [INFO] - from application in play-internal-execution-context-1 
 Friends adicionada ao BD
 
-2015-02-13 15:06:04,707 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,524 - [INFO] - from application in play-internal-execution-context-1 
 Farscape adicionada ao BD
 
-2015-02-13 15:06:04,723 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,544 - [INFO] - from application in play-internal-execution-context-1 
 Helix adicionada ao BD
 
-2015-02-13 15:06:04,727 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,548 - [INFO] - from application in play-internal-execution-context-1 
 2 Broke Girls adicionada ao BD
 
-2015-02-13 15:06:04,740 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,568 - [INFO] - from application in play-internal-execution-context-1 
 Baby Daddy adicionada ao BD
 
-2015-02-13 15:06:04,748 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,579 - [INFO] - from application in play-internal-execution-context-1 
 Hungry Investors adicionada ao BD
 
-2015-02-13 15:06:04,750 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,581 - [INFO] - from application in play-internal-execution-context-1 
 Brickleberry adicionada ao BD
 
-2015-02-13 15:06:04,756 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,585 - [INFO] - from application in play-internal-execution-context-1 
 Haganai adicionada ao BD
 
-2015-02-13 15:06:04,760 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,591 - [INFO] - from application in play-internal-execution-context-1 
 The Wire adicionada ao BD
 
-2015-02-13 15:06:04,770 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,599 - [INFO] - from application in play-internal-execution-context-1 
 Blue Bloods adicionada ao BD
 
-2015-02-13 15:06:04,786 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,609 - [INFO] - from application in play-internal-execution-context-1 
 Ed adicionada ao BD
 
-2015-02-13 15:06:04,799 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,618 - [INFO] - from application in play-internal-execution-context-1 
 Stargate Atlantis adicionada ao BD
 
-2015-02-13 15:06:04,816 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,628 - [INFO] - from application in play-internal-execution-context-1 
 King of the Hill adicionada ao BD
 
-2015-02-13 15:06:04,853 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,654 - [INFO] - from application in play-internal-execution-context-1 
 Silicon Valley adicionada ao BD
 
-2015-02-13 15:06:04,854 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,655 - [INFO] - from application in play-internal-execution-context-1 
 Family Matters adicionada ao BD
 
-2015-02-13 15:06:04,883 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,676 - [INFO] - from application in play-internal-execution-context-1 
 Cuckoo adicionada ao BD
 
-2015-02-13 15:06:04,885 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,678 - [INFO] - from application in play-internal-execution-context-1 
 ER adicionada ao BD
 
-2015-02-13 15:06:04,929 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,710 - [INFO] - from application in play-internal-execution-context-1 
 The Real Housewives of New Jersey adicionada ao BD
 
-2015-02-13 15:06:04,944 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,721 - [INFO] - from application in play-internal-execution-context-1 
 Arrow adicionada ao BD
 
-2015-02-13 15:06:04,952 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,728 - [INFO] - from application in play-internal-execution-context-1 
 Under the Dome adicionada ao BD
 
-2015-02-13 15:06:04,955 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,731 - [INFO] - from application in play-internal-execution-context-1 
 Curb Your Enthusiasm adicionada ao BD
 
-2015-02-13 15:06:04,967 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,740 - [INFO] - from application in play-internal-execution-context-1 
 Benidorm adicionada ao BD
 
-2015-02-13 15:06:04,973 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,746 - [INFO] - from application in play-internal-execution-context-1 
 Angel adicionada ao BD
 
-2015-02-13 15:06:04,988 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,757 - [INFO] - from application in play-internal-execution-context-1 
 Continuum adicionada ao BD
 
-2015-02-13 15:06:04,994 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,763 - [INFO] - from application in play-internal-execution-context-1 
 How I Met Your Mother adicionada ao BD
 
-2015-02-13 15:06:05,021 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,783 - [INFO] - from application in play-internal-execution-context-1 
 Hart of Dixie adicionada ao BD
 
-2015-02-13 15:06:05,032 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,790 - [INFO] - from application in play-internal-execution-context-1 
 Girls adicionada ao BD
 
-2015-02-13 15:06:05,037 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,794 - [INFO] - from application in play-internal-execution-context-1 
 V adicionada ao BD
 
-2015-02-13 15:06:05,040 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,797 - [INFO] - from application in play-internal-execution-context-1 
 Girl Code adicionada ao BD
 
-2015-02-13 15:06:05,048 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,803 - [INFO] - from application in play-internal-execution-context-1 
 Search for the Lost Giants adicionada ao BD
 
-2015-02-13 15:06:05,049 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,804 - [INFO] - from application in play-internal-execution-context-1 
 Covert Affairs adicionada ao BD
 
-2015-02-13 15:06:05,060 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,812 - [INFO] - from application in play-internal-execution-context-1 
 Mystery Science Theater 3000 adicionada ao BD
 
-2015-02-13 15:06:05,084 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,829 - [INFO] - from application in play-internal-execution-context-1 
 Comic Book Men adicionada ao BD
 
-2015-02-13 15:06:05,091 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,837 - [INFO] - from application in play-internal-execution-context-1 
 Warehouse 13 adicionada ao BD
 
-2015-02-13 15:06:05,100 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,844 - [INFO] - from application in play-internal-execution-context-1 
 A Very British Murder with Lucy Worsley adicionada ao BD
 
-2015-02-13 15:06:05,101 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,845 - [INFO] - from application in play-internal-execution-context-1 
 Naked and Afraid adicionada ao BD
 
-2015-02-13 15:06:05,105 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,849 - [INFO] - from application in play-internal-execution-context-1 
 Face Off adicionada ao BD
 
-2015-02-13 15:06:05,117 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,858 - [INFO] - from application in play-internal-execution-context-1 
 Strangers with Candy adicionada ao BD
 
-2015-02-13 15:06:05,121 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,862 - [INFO] - from application in play-internal-execution-context-1 
 The Inbetweeners adicionada ao BD
 
-2015-02-13 15:06:05,124 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,866 - [INFO] - from application in play-internal-execution-context-1 
 Revolution adicionada ao BD
 
-2015-02-13 15:06:05,130 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,870 - [INFO] - from application in play-internal-execution-context-1 
 Tenjho Tenge adicionada ao BD
 
-2015-02-13 15:06:05,133 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,873 - [INFO] - from application in play-internal-execution-context-1 
 The West Wing adicionada ao BD
 
-2015-02-13 15:06:05,151 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,889 - [INFO] - from application in play-internal-execution-context-1 
 NCIS adicionada ao BD
 
-2015-02-13 15:06:05,202 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,916 - [INFO] - from application in play-internal-execution-context-1 
 Revenge adicionada ao BD
 
-2015-02-13 15:06:05,210 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,924 - [INFO] - from application in play-internal-execution-context-1 
 The Great Fire adicionada ao BD
 
-2015-02-13 15:06:05,211 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,925 - [INFO] - from application in play-internal-execution-context-1 
 Drifters adicionada ao BD
 
-2015-02-13 15:06:05,212 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,927 - [INFO] - from application in play-internal-execution-context-1 
 Ink Master adicionada ao BD
 
-2015-02-13 15:06:05,219 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,934 - [INFO] - from application in play-internal-execution-context-1 
 The Leftovers adicionada ao BD
 
-2015-02-13 15:06:05,221 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,936 - [INFO] - from application in play-internal-execution-context-1 
 Strike Back adicionada ao BD
 
-2015-02-13 15:06:05,223 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,939 - [INFO] - from application in play-internal-execution-context-1 
 How to Be a Grown Up adicionada ao BD
 
-2015-02-13 15:06:05,224 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,941 - [INFO] - from application in play-internal-execution-context-1 
 Human Planet adicionada ao BD
 
-2015-02-13 15:06:05,225 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,942 - [INFO] - from application in play-internal-execution-context-1 
 Tru Calling adicionada ao BD
 
-2015-02-13 15:06:05,235 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,951 - [INFO] - from application in play-internal-execution-context-1 
 Coupling adicionada ao BD
 
-2015-02-13 15:06:05,239 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,955 - [INFO] - from application in play-internal-execution-context-1 
 Person of Interest adicionada ao BD
 
-2015-02-13 15:06:05,247 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,963 - [INFO] - from application in play-internal-execution-context-1 
 Broadchurch adicionada ao BD
 
-2015-02-13 15:06:05,248 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,965 - [INFO] - from application in play-internal-execution-context-1 
 Boardwalk Empire adicionada ao BD
 
-2015-02-13 15:06:05,255 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,972 - [INFO] - from application in play-internal-execution-context-1 
 90210 adicionada ao BD
 
-2015-02-13 15:06:05,267 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,984 - [INFO] - from application in play-internal-execution-context-1 
 Justified adicionada ao BD
 
-2015-02-13 15:06:05,274 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,991 - [INFO] - from application in play-internal-execution-context-1 
 House of Lies adicionada ao BD
 
-2015-02-13 15:06:05,279 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:50,995 - [INFO] - from application in play-internal-execution-context-1 
 Night Court adicionada ao BD
 
-2015-02-13 15:06:05,299 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,014 - [INFO] - from application in play-internal-execution-context-1 
 Dragon Ball Z adicionada ao BD
 
-2015-02-13 15:06:05,330 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,042 - [INFO] - from application in play-internal-execution-context-1 
 Firefly adicionada ao BD
 
-2015-02-13 15:06:05,332 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,044 - [INFO] - from application in play-internal-execution-context-1 
 True Detective adicionada ao BD
 
-2015-02-13 15:06:05,333 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,046 - [INFO] - from application in play-internal-execution-context-1 
 Masterchef Canada adicionada ao BD
 
-2015-02-13 15:06:05,335 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,048 - [INFO] - from application in play-internal-execution-context-1 
 Hell on Wheels adicionada ao BD
 
-2015-02-13 15:06:05,340 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,054 - [INFO] - from application in play-internal-execution-context-1 
 Boy Meets World adicionada ao BD
 
-2015-02-13 15:06:05,357 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,070 - [INFO] - from application in play-internal-execution-context-1 
 Deadwood adicionada ao BD
 
-2015-02-13 15:06:05,361 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,074 - [INFO] - from application in play-internal-execution-context-1 
 The Borgias adicionada ao BD
 
-2015-02-13 15:06:05,365 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,078 - [INFO] - from application in play-internal-execution-context-1 
 Perception adicionada ao BD
 
-2015-02-13 15:06:05,369 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,082 - [INFO] - from application in play-internal-execution-context-1 
 American Horror Story adicionada ao BD
 
-2015-02-13 15:06:05,374 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,088 - [INFO] - from application in play-internal-execution-context-1 
 Late Night with Seth Meyers adicionada ao BD
 
-2015-02-13 15:06:05,385 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,100 - [INFO] - from application in play-internal-execution-context-1 
 Ray Donovan adicionada ao BD
 
-2015-02-13 15:06:05,388 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,104 - [INFO] - from application in play-internal-execution-context-1 
 Chopped adicionada ao BD
 
-2015-02-13 15:06:05,412 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,130 - [INFO] - from application in play-internal-execution-context-1 
 Red Band Society adicionada ao BD
 
-2015-02-13 15:06:05,413 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,132 - [INFO] - from application in play-internal-execution-context-1 
 Live Free or Die adicionada ao BD
 
-2015-02-13 15:06:05,415 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,133 - [INFO] - from application in play-internal-execution-context-1 
 Black Sails adicionada ao BD
 
-2015-02-13 15:06:05,416 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,136 - [INFO] - from application in play-internal-execution-context-1 
 The Amazing Race adicionada ao BD
 
-2015-02-13 15:06:05,443 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,192 - [INFO] - from application in play-internal-execution-context-1 
 The Originals adicionada ao BD
 
-2015-02-13 15:06:05,447 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,201 - [INFO] - from application in play-internal-execution-context-1 
 Suits adicionada ao BD
 
-2015-02-13 15:06:05,452 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,211 - [INFO] - from application in play-internal-execution-context-1 
 Suburgatory adicionada ao BD
 
-2015-02-13 15:06:05,457 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,218 - [INFO] - from application in play-internal-execution-context-1 
 North Woods Law adicionada ao BD
 
-2015-02-13 15:06:05,461 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,228 - [INFO] - from application in play-internal-execution-context-1 
 Regular Show adicionada ao BD
 
-2015-02-13 15:06:05,475 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,244 - [INFO] - from application in play-internal-execution-context-1 
 The Lord of the Skies adicionada ao BD
 
-2015-02-13 15:06:05,476 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,245 - [INFO] - from application in play-internal-execution-context-1 
 ""The Lord of the Skies" adicionada ao BD
 
-2015-02-13 15:06:05,478 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,247 - [INFO] - from application in play-internal-execution-context-1 
 The Lord of the Skies adicionada ao BD
 
-2015-02-13 15:06:05,483 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,254 - [INFO] - from application in play-internal-execution-context-1 
 Foo Fighters Sonic Highways adicionada ao BD
 
-2015-02-13 15:06:05,484 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,256 - [INFO] - from application in play-internal-execution-context-1 
 The Real Housewives of Atlanta adicionada ao BD
 
-2015-02-13 15:06:05,494 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,267 - [INFO] - from application in play-internal-execution-context-1 
 Gilmore Girls adicionada ao BD
 
-2015-02-13 15:06:05,508 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,283 - [INFO] - from application in play-internal-execution-context-1 
 Just Shoot Me adicionada ao BD
 
-2015-02-13 15:06:05,521 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,299 - [INFO] - from application in play-internal-execution-context-1 
 Selfie adicionada ao BD
 
-2015-02-13 15:06:05,522 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,302 - [INFO] - from application in play-internal-execution-context-1 
 Parks and Recreation adicionada ao BD
 
-2015-02-13 15:06:05,532 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,313 - [INFO] - from application in play-internal-execution-context-1 
 The Moaning of Life adicionada ao BD
 
-2015-02-13 15:06:05,533 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,315 - [INFO] - from application in play-internal-execution-context-1 
 The Millers adicionada ao BD
 
-2015-02-13 15:06:05,536 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,318 - [INFO] - from application in play-internal-execution-context-1 
 Two and a Half Men adicionada ao BD
 
-2015-02-13 15:06:05,558 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,342 - [INFO] - from application in play-internal-execution-context-1 
 Transparent adicionada ao BD
 
-2015-02-13 15:06:05,559 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,344 - [INFO] - from application in play-internal-execution-context-1 
 Wives and Daughters adicionada ao BD
 
-2015-02-13 15:06:05,560 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,345 - [INFO] - from application in play-internal-execution-context-1 
 Cutthroat Kitchen adicionada ao BD
 
-2015-02-13 15:06:05,566 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,353 - [INFO] - from application in play-internal-execution-context-1 
 Hotel Hell adicionada ao BD
 
-2015-02-13 15:06:05,567 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,357 - [INFO] - from application in play-internal-execution-context-1 
 Party Down South adicionada ao BD
 
-2015-02-13 15:06:05,570 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,362 - [INFO] - from application in play-internal-execution-context-1 
 Cold Case adicionada ao BD
 
-2015-02-13 15:06:05,582 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,391 - [INFO] - from application in play-internal-execution-context-1 
 How We Got to Now adicionada ao BD
 
-2015-02-13 15:06:05,583 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,393 - [INFO] - from application in play-internal-execution-context-1 
 Marry Me adicionada ao BD
 
-2015-02-13 15:06:05,584 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,395 - [INFO] - from application in play-internal-execution-context-1 
 Breaking Amish adicionada ao BD
 
-2015-02-13 15:06:05,586 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,410 - [INFO] - from application in play-internal-execution-context-1 
 Jane the Virgin adicionada ao BD
 
-2015-02-13 15:06:05,587 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,413 - [INFO] - from application in play-internal-execution-context-1 
 Mike Tyson Mysteries adicionada ao BD
 
-2015-02-13 15:06:05,588 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,414 - [INFO] - from application in play-internal-execution-context-1 
 Futurama adicionada ao BD
 
-2015-02-13 15:06:05,597 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,530 - [INFO] - from application in play-internal-execution-context-1 
 BoJack Horseman adicionada ao BD
 
-2015-02-13 15:06:05,599 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,533 - [INFO] - from application in play-internal-execution-context-1 
 Coast Guard Alaska adicionada ao BD
 
-2015-02-13 15:06:05,601 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,536 - [INFO] - from application in play-internal-execution-context-1 
 Ancient Black Ops adicionada ao BD
 
-2015-02-13 15:06:05,602 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,538 - [INFO] - from application in play-internal-execution-context-1 
 The Affair adicionada ao BD
 
-2015-02-13 15:06:05,603 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,540 - [INFO] - from application in play-internal-execution-context-1 
 The Newsroom adicionada ao BD
 
-2015-02-13 15:06:05,606 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,545 - [INFO] - from application in play-internal-execution-context-1 
 Madam Secretary adicionada ao BD
 
-2015-02-13 15:06:05,607 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,547 - [INFO] - from application in play-internal-execution-context-1 
 House adicionada ao BD
 
-2015-02-13 15:06:05,620 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,569 - [INFO] - from application in play-internal-execution-context-1 
 Everybody Loves Raymond adicionada ao BD
 
-2015-02-13 15:06:05,636 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,592 - [INFO] - from application in play-internal-execution-context-1 
 Gadget Man adicionada ao BD
 
-2015-02-13 15:06:05,638 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,595 - [INFO] - from application in play-internal-execution-context-1 
 Bubble Guppies adicionada ao BD
 
-2015-02-13 15:06:05,642 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,601 - [INFO] - from application in play-internal-execution-context-1 
 Dollhouse adicionada ao BD
 
-2015-02-13 15:06:05,644 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,604 - [INFO] - from application in play-internal-execution-context-1 
 Top Gear adicionada ao BD
 
-2015-02-13 15:06:05,657 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,630 - [INFO] - from application in play-internal-execution-context-1 
 Haven adicionada ao BD
 
-2015-02-13 15:06:05,662 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,637 - [INFO] - from application in play-internal-execution-context-1 
 Teen Wolf adicionada ao BD
 
-2015-02-13 15:06:05,666 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,644 - [INFO] - from application in play-internal-execution-context-1 
 Weeds adicionada ao BD
 
-2015-02-13 15:06:05,674 - [INFO] - from application in play-internal-execution-context-1 
+2015-02-13 19:08:51,654 - [INFO] - from application in play-internal-execution-context-1 
 Coronation Street adicionada ao BD
 
-2015-02-13 15:06:07,935 - [INFO] - from play in play-internal-execution-context-1 
+2015-02-13 19:08:52,543 - [INFO] - from play in play-internal-execution-context-1 
 Application started (Dev)
 
-2015-02-13 15:06:19,618 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
-Acompanhando Sleepy Hollow
+2015-02-13 19:28:04,003 - [INFO] - from application in play-internal-execution-context-7 
+AplicaÁ„o finalizando...
 
-2015-02-13 15:06:25,650 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
-Assistiu ep Blood Moon
+2015-02-13 19:28:06,551 - [INFO] - from play in play-internal-execution-context-7 
+datasource [jdbc:h2:mem:play] bound to JNDI as DefaultDS
 
-2015-02-13 15:06:37,800 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
-Assistiu ep The Lesser Key of Solomon
+2015-02-13 19:28:06,556 - [INFO] - from play in play-internal-execution-context-7 
+database [default] connected at jdbc:h2:mem:play
 
-2015-02-13 15:06:42,307 - [INFO] - from application in play-akka.actor.default-dispatcher-13 
-Assistiu ep John Doe
+2015-02-13 19:28:07,317 - [INFO] - from application in play-internal-execution-context-7 
+AplicaÁ„o inicializada...
 
-2015-02-13 15:06:57,494 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
-Pr√≥ximo ep por op√ß√£o 2
+2015-02-13 19:28:07,551 - [INFO] - from application in play-internal-execution-context-7 
+The Unit adicionada ao BD
 
-2015-02-13 15:07:04,304 - [INFO] - from application in play-akka.actor.default-dispatcher-11 
-Pr√≥ximo ep por op√ß√£o 3
+2015-02-13 19:28:07,584 - [INFO] - from application in play-internal-execution-context-7 
+Family Guy adicionada ao BD
 
-2015-02-13 15:07:15,258 - [INFO] - from application in play-akka.actor.default-dispatcher-12 
-Assistiu ep The Midnight Ride
+2015-02-13 19:28:07,669 - [INFO] - from application in play-internal-execution-context-7 
+The Simpsons adicionada ao BD
 
-2015-02-13 15:21:39,931 - [INFO] - from application in pool-4-thread-2 
-Aplica√ß√£o finalizando...
+2015-02-13 19:28:07,921 - [INFO] - from application in play-internal-execution-context-7 
+Masters of Sex adicionada ao BD
+
+2015-02-13 19:28:07,938 - [INFO] - from application in play-internal-execution-context-7 
+Lilyhammer adicionada ao BD
+
+2015-02-13 19:28:07,951 - [INFO] - from application in play-internal-execution-context-7 
+Storage Hunters adicionada ao BD
+
+2015-02-13 19:28:08,009 - [INFO] - from application in play-internal-execution-context-7 
+Sleepy Hollow adicionada ao BD
+
+2015-02-13 19:28:08,024 - [INFO] - from application in play-internal-execution-context-7 
+8 Out of 10 Cats adicionada ao BD
+
+2015-02-13 19:28:08,084 - [INFO] - from application in play-internal-execution-context-7 
+Cougar Town adicionada ao BD
+
+2015-02-13 19:28:08,112 - [INFO] - from application in play-internal-execution-context-7 
+Ancient Aliens adicionada ao BD
+
+2015-02-13 19:28:08,133 - [INFO] - from application in play-internal-execution-context-7 
+The Big Bang Theory adicionada ao BD
+
+2015-02-13 19:28:08,153 - [INFO] - from application in play-internal-execution-context-7 
+Arrested Development adicionada ao BD
+
+2015-02-13 19:28:08,160 - [INFO] - from application in play-internal-execution-context-7 
+Good Eats adicionada ao BD
+
+2015-02-13 19:28:08,185 - [INFO] - from application in play-internal-execution-context-7 
+The Critic adicionada ao BD
+
+2015-02-13 19:28:08,189 - [INFO] - from application in play-internal-execution-context-7 
+Good Times adicionada ao BD
+
+2015-02-13 19:28:08,203 - [INFO] - from application in play-internal-execution-context-7 
+Friends adicionada ao BD
+
+2015-02-13 19:28:08,224 - [INFO] - from application in play-internal-execution-context-7 
+Farscape adicionada ao BD
+
+2015-02-13 19:28:08,236 - [INFO] - from application in play-internal-execution-context-7 
+Helix adicionada ao BD
+
+2015-02-13 19:28:08,238 - [INFO] - from application in play-internal-execution-context-7 
+2 Broke Girls adicionada ao BD
+
+2015-02-13 19:28:08,248 - [INFO] - from application in play-internal-execution-context-7 
+Baby Daddy adicionada ao BD
+
+2015-02-13 19:28:08,254 - [INFO] - from application in play-internal-execution-context-7 
+Hungry Investors adicionada ao BD
+
+2015-02-13 19:28:08,256 - [INFO] - from application in play-internal-execution-context-7 
+Brickleberry adicionada ao BD
+
+2015-02-13 19:28:08,261 - [INFO] - from application in play-internal-execution-context-7 
+Haganai adicionada ao BD
+
+2015-02-13 19:28:08,266 - [INFO] - from application in play-internal-execution-context-7 
+The Wire adicionada ao BD
+
+2015-02-13 19:28:08,274 - [INFO] - from application in play-internal-execution-context-7 
+Blue Bloods adicionada ao BD
+
+2015-02-13 19:28:08,283 - [INFO] - from application in play-internal-execution-context-7 
+Ed adicionada ao BD
+
+2015-02-13 19:28:08,294 - [INFO] - from application in play-internal-execution-context-7 
+Stargate Atlantis adicionada ao BD
+
+2015-02-13 19:28:08,304 - [INFO] - from application in play-internal-execution-context-7 
+King of the Hill adicionada ao BD
+
+2015-02-13 19:28:08,329 - [INFO] - from application in play-internal-execution-context-7 
+Silicon Valley adicionada ao BD
+
+2015-02-13 19:28:08,331 - [INFO] - from application in play-internal-execution-context-7 
+Family Matters adicionada ao BD
+
+2015-02-13 19:28:08,352 - [INFO] - from application in play-internal-execution-context-7 
+Cuckoo adicionada ao BD
+
+2015-02-13 19:28:08,355 - [INFO] - from application in play-internal-execution-context-7 
+ER adicionada ao BD
+
+2015-02-13 19:28:08,386 - [INFO] - from application in play-internal-execution-context-7 
+The Real Housewives of New Jersey adicionada ao BD
+
+2015-02-13 19:28:08,397 - [INFO] - from application in play-internal-execution-context-7 
+Arrow adicionada ao BD
+
+2015-02-13 19:28:08,403 - [INFO] - from application in play-internal-execution-context-7 
+Under the Dome adicionada ao BD
+
+2015-02-13 19:28:08,408 - [INFO] - from application in play-internal-execution-context-7 
+Curb Your Enthusiasm adicionada ao BD
+
+2015-02-13 19:28:08,423 - [INFO] - from application in play-internal-execution-context-7 
+Benidorm adicionada ao BD
+
+2015-02-13 19:28:08,427 - [INFO] - from application in play-internal-execution-context-7 
+Angel adicionada ao BD
+
+2015-02-13 19:28:08,437 - [INFO] - from application in play-internal-execution-context-7 
+Continuum adicionada ao BD
+
+2015-02-13 19:28:08,444 - [INFO] - from application in play-internal-execution-context-7 
+How I Met Your Mother adicionada ao BD
+
+2015-02-13 19:28:08,463 - [INFO] - from application in play-internal-execution-context-7 
+Hart of Dixie adicionada ao BD
+
+2015-02-13 19:28:08,471 - [INFO] - from application in play-internal-execution-context-7 
+Girls adicionada ao BD
+
+2015-02-13 19:28:08,476 - [INFO] - from application in play-internal-execution-context-7 
+V adicionada ao BD
+
+2015-02-13 19:28:08,479 - [INFO] - from application in play-internal-execution-context-7 
+Girl Code adicionada ao BD
+
+2015-02-13 19:28:08,485 - [INFO] - from application in play-internal-execution-context-7 
+Search for the Lost Giants adicionada ao BD
+
+2015-02-13 19:28:08,487 - [INFO] - from application in play-internal-execution-context-7 
+Covert Affairs adicionada ao BD
+
+2015-02-13 19:28:08,494 - [INFO] - from application in play-internal-execution-context-7 
+Mystery Science Theater 3000 adicionada ao BD
+
+2015-02-13 19:28:08,514 - [INFO] - from application in play-internal-execution-context-7 
+Comic Book Men adicionada ao BD
+
+2015-02-13 19:28:08,521 - [INFO] - from application in play-internal-execution-context-7 
+Warehouse 13 adicionada ao BD
+
+2015-02-13 19:28:08,531 - [INFO] - from application in play-internal-execution-context-7 
+A Very British Murder with Lucy Worsley adicionada ao BD
+
+2015-02-13 19:28:08,533 - [INFO] - from application in play-internal-execution-context-7 
+Naked and Afraid adicionada ao BD
+
+2015-02-13 19:28:08,537 - [INFO] - from application in play-internal-execution-context-7 
+Face Off adicionada ao BD
+
+2015-02-13 19:28:08,547 - [INFO] - from application in play-internal-execution-context-7 
+Strangers with Candy adicionada ao BD
+
+2015-02-13 19:28:08,551 - [INFO] - from application in play-internal-execution-context-7 
+The Inbetweeners adicionada ao BD
+
+2015-02-13 19:28:08,553 - [INFO] - from application in play-internal-execution-context-7 
+Revolution adicionada ao BD
+
+2015-02-13 19:28:08,559 - [INFO] - from application in play-internal-execution-context-7 
+Tenjho Tenge adicionada ao BD
+
+2015-02-13 19:28:08,564 - [INFO] - from application in play-internal-execution-context-7 
+The West Wing adicionada ao BD
+
+2015-02-13 19:28:08,579 - [INFO] - from application in play-internal-execution-context-7 
+NCIS adicionada ao BD
+
+2015-02-13 19:28:08,606 - [INFO] - from application in play-internal-execution-context-7 
+Revenge adicionada ao BD
+
+2015-02-13 19:28:08,614 - [INFO] - from application in play-internal-execution-context-7 
+The Great Fire adicionada ao BD
+
+2015-02-13 19:28:08,615 - [INFO] - from application in play-internal-execution-context-7 
+Drifters adicionada ao BD
+
+2015-02-13 19:28:08,617 - [INFO] - from application in play-internal-execution-context-7 
+Ink Master adicionada ao BD
+
+2015-02-13 19:28:08,625 - [INFO] - from application in play-internal-execution-context-7 
+The Leftovers adicionada ao BD
+
+2015-02-13 19:28:08,627 - [INFO] - from application in play-internal-execution-context-7 
+Strike Back adicionada ao BD
+
+2015-02-13 19:28:08,630 - [INFO] - from application in play-internal-execution-context-7 
+How to Be a Grown Up adicionada ao BD
+
+2015-02-13 19:28:08,631 - [INFO] - from application in play-internal-execution-context-7 
+Human Planet adicionada ao BD
+
+2015-02-13 19:28:08,633 - [INFO] - from application in play-internal-execution-context-7 
+Tru Calling adicionada ao BD
+
+2015-02-13 19:28:08,636 - [INFO] - from application in play-internal-execution-context-7 
+Coupling adicionada ao BD
+
+2015-02-13 19:28:08,640 - [INFO] - from application in play-internal-execution-context-7 
+Person of Interest adicionada ao BD
+
+2015-02-13 19:28:08,649 - [INFO] - from application in play-internal-execution-context-7 
+Broadchurch adicionada ao BD
+
+2015-02-13 19:28:08,652 - [INFO] - from application in play-internal-execution-context-7 
+Boardwalk Empire adicionada ao BD
+
+2015-02-13 19:28:08,658 - [INFO] - from application in play-internal-execution-context-7 
+90210 adicionada ao BD
+
+2015-02-13 19:28:08,668 - [INFO] - from application in play-internal-execution-context-7 
+Justified adicionada ao BD
+
+2015-02-13 19:28:08,675 - [INFO] - from application in play-internal-execution-context-7 
+House of Lies adicionada ao BD
+
+2015-02-13 19:28:08,682 - [INFO] - from application in play-internal-execution-context-7 
+Night Court adicionada ao BD
+
+2015-02-13 19:28:08,699 - [INFO] - from application in play-internal-execution-context-7 
+Dragon Ball Z adicionada ao BD
+
+2015-02-13 19:28:08,726 - [INFO] - from application in play-internal-execution-context-7 
+Firefly adicionada ao BD
+
+2015-02-13 19:28:08,729 - [INFO] - from application in play-internal-execution-context-7 
+True Detective adicionada ao BD
+
+2015-02-13 19:28:08,730 - [INFO] - from application in play-internal-execution-context-7 
+Masterchef Canada adicionada ao BD
+
+2015-02-13 19:28:08,732 - [INFO] - from application in play-internal-execution-context-7 
+Hell on Wheels adicionada ao BD
+
+2015-02-13 19:28:08,737 - [INFO] - from application in play-internal-execution-context-7 
+Boy Meets World adicionada ao BD
+
+2015-02-13 19:28:08,753 - [INFO] - from application in play-internal-execution-context-7 
+Deadwood adicionada ao BD
+
+2015-02-13 19:28:08,757 - [INFO] - from application in play-internal-execution-context-7 
+The Borgias adicionada ao BD
+
+2015-02-13 19:28:08,761 - [INFO] - from application in play-internal-execution-context-7 
+Perception adicionada ao BD
+
+2015-02-13 19:28:08,766 - [INFO] - from application in play-internal-execution-context-7 
+American Horror Story adicionada ao BD
+
+2015-02-13 19:28:08,772 - [INFO] - from application in play-internal-execution-context-7 
+Late Night with Seth Meyers adicionada ao BD
+
+2015-02-13 19:28:08,784 - [INFO] - from application in play-internal-execution-context-7 
+Ray Donovan adicionada ao BD
+
+2015-02-13 19:28:08,787 - [INFO] - from application in play-internal-execution-context-7 
+Chopped adicionada ao BD
+
+2015-02-13 19:28:08,813 - [INFO] - from application in play-internal-execution-context-7 
+Red Band Society adicionada ao BD
+
+2015-02-13 19:28:08,815 - [INFO] - from application in play-internal-execution-context-7 
+Live Free or Die adicionada ao BD
+
+2015-02-13 19:28:08,817 - [INFO] - from application in play-internal-execution-context-7 
+Black Sails adicionada ao BD
+
+2015-02-13 19:28:08,819 - [INFO] - from application in play-internal-execution-context-7 
+The Amazing Race adicionada ao BD
+
+2015-02-13 19:28:08,848 - [INFO] - from application in play-internal-execution-context-7 
+The Originals adicionada ao BD
+
+2015-02-13 19:28:08,852 - [INFO] - from application in play-internal-execution-context-7 
+Suits adicionada ao BD
+
+2015-02-13 19:28:08,858 - [INFO] - from application in play-internal-execution-context-7 
+Suburgatory adicionada ao BD
+
+2015-02-13 19:28:08,865 - [INFO] - from application in play-internal-execution-context-7 
+North Woods Law adicionada ao BD
+
+2015-02-13 19:28:08,870 - [INFO] - from application in play-internal-execution-context-7 
+Regular Show adicionada ao BD
+
+2015-02-13 19:28:08,885 - [INFO] - from application in play-internal-execution-context-7 
+The Lord of the Skies adicionada ao BD
+
+2015-02-13 19:28:08,886 - [INFO] - from application in play-internal-execution-context-7 
+""The Lord of the Skies" adicionada ao BD
+
+2015-02-13 19:28:08,888 - [INFO] - from application in play-internal-execution-context-7 
+The Lord of the Skies adicionada ao BD
+
+2015-02-13 19:28:08,895 - [INFO] - from application in play-internal-execution-context-7 
+Foo Fighters Sonic Highways adicionada ao BD
+
+2015-02-13 19:28:08,897 - [INFO] - from application in play-internal-execution-context-7 
+The Real Housewives of Atlanta adicionada ao BD
+
+2015-02-13 19:28:08,909 - [INFO] - from application in play-internal-execution-context-7 
+Gilmore Girls adicionada ao BD
+
+2015-02-13 19:28:08,925 - [INFO] - from application in play-internal-execution-context-7 
+Just Shoot Me adicionada ao BD
+
+2015-02-13 19:28:08,940 - [INFO] - from application in play-internal-execution-context-7 
+Selfie adicionada ao BD
+
+2015-02-13 19:28:08,942 - [INFO] - from application in play-internal-execution-context-7 
+Parks and Recreation adicionada ao BD
+
+2015-02-13 19:28:08,954 - [INFO] - from application in play-internal-execution-context-7 
+The Moaning of Life adicionada ao BD
+
+2015-02-13 19:28:08,956 - [INFO] - from application in play-internal-execution-context-7 
+The Millers adicionada ao BD
+
+2015-02-13 19:28:08,960 - [INFO] - from application in play-internal-execution-context-7 
+Two and a Half Men adicionada ao BD
+
+2015-02-13 19:28:08,985 - [INFO] - from application in play-internal-execution-context-7 
+Transparent adicionada ao BD
+
+2015-02-13 19:28:08,986 - [INFO] - from application in play-internal-execution-context-7 
+Wives and Daughters adicionada ao BD
+
+2015-02-13 19:28:08,988 - [INFO] - from application in play-internal-execution-context-7 
+Cutthroat Kitchen adicionada ao BD
+
+2015-02-13 19:28:08,995 - [INFO] - from application in play-internal-execution-context-7 
+Hotel Hell adicionada ao BD
+
+2015-02-13 19:28:08,997 - [INFO] - from application in play-internal-execution-context-7 
+Party Down South adicionada ao BD
+
+2015-02-13 19:28:09,000 - [INFO] - from application in play-internal-execution-context-7 
+Cold Case adicionada ao BD
+
+2015-02-13 19:28:09,017 - [INFO] - from application in play-internal-execution-context-7 
+How We Got to Now adicionada ao BD
+
+2015-02-13 19:28:09,018 - [INFO] - from application in play-internal-execution-context-7 
+Marry Me adicionada ao BD
+
+2015-02-13 19:28:09,020 - [INFO] - from application in play-internal-execution-context-7 
+Breaking Amish adicionada ao BD
+
+2015-02-13 19:28:09,023 - [INFO] - from application in play-internal-execution-context-7 
+Jane the Virgin adicionada ao BD
+
+2015-02-13 19:28:09,025 - [INFO] - from application in play-internal-execution-context-7 
+Mike Tyson Mysteries adicionada ao BD
+
+2015-02-13 19:28:09,027 - [INFO] - from application in play-internal-execution-context-7 
+Futurama adicionada ao BD
+
+2015-02-13 19:28:09,039 - [INFO] - from application in play-internal-execution-context-7 
+BoJack Horseman adicionada ao BD
+
+2015-02-13 19:28:09,042 - [INFO] - from application in play-internal-execution-context-7 
+Coast Guard Alaska adicionada ao BD
+
+2015-02-13 19:28:09,046 - [INFO] - from application in play-internal-execution-context-7 
+Ancient Black Ops adicionada ao BD
+
+2015-02-13 19:28:09,048 - [INFO] - from application in play-internal-execution-context-7 
+The Affair adicionada ao BD
+
+2015-02-13 19:28:09,049 - [INFO] - from application in play-internal-execution-context-7 
+The Newsroom adicionada ao BD
+
+2015-02-13 19:28:09,054 - [INFO] - from application in play-internal-execution-context-7 
+Madam Secretary adicionada ao BD
+
+2015-02-13 19:28:09,055 - [INFO] - from application in play-internal-execution-context-7 
+House adicionada ao BD
+
+2015-02-13 19:28:09,073 - [INFO] - from application in play-internal-execution-context-7 
+Everybody Loves Raymond adicionada ao BD
+
+2015-02-13 19:28:09,097 - [INFO] - from application in play-internal-execution-context-7 
+Gadget Man adicionada ao BD
+
+2015-02-13 19:28:09,101 - [INFO] - from application in play-internal-execution-context-7 
+Bubble Guppies adicionada ao BD
+
+2015-02-13 19:28:09,107 - [INFO] - from application in play-internal-execution-context-7 
+Dollhouse adicionada ao BD
+
+2015-02-13 19:28:09,110 - [INFO] - from application in play-internal-execution-context-7 
+Top Gear adicionada ao BD
+
+2015-02-13 19:28:09,129 - [INFO] - from application in play-internal-execution-context-7 
+Haven adicionada ao BD
+
+2015-02-13 19:28:09,137 - [INFO] - from application in play-internal-execution-context-7 
+Teen Wolf adicionada ao BD
+
+2015-02-13 19:28:09,144 - [INFO] - from application in play-internal-execution-context-7 
+Weeds adicionada ao BD
+
+2015-02-13 19:28:09,154 - [INFO] - from application in play-internal-execution-context-7 
+Coronation Street adicionada ao BD
+
+2015-02-13 19:28:09,853 - [INFO] - from play in play-internal-execution-context-7 
+Application started (Dev)
+
+2015-02-13 19:28:55,364 - [INFO] - from application in pool-4-thread-2 
+AplicaÁ„o finalizando...
 

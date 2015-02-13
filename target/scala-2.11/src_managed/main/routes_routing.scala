@@ -1,6 +1,6 @@
-// @SOURCE:/home/brunovr/Documentos/SI1/si1-lab2-part2/conf/routes
-// @HASH:12b5a87deae045a3545f7e31fed0ec0c3be1e0a6
-// @DATE:Fri Feb 13 15:05:45 BRT 2015
+// @SOURCE:C:/Users/Bruno/Documents/GitHub/si1-lab2-part2/conf/routes
+// @HASH:90420a1f7b6ba93ffabdc51c1b42496b197f6c97
+// @DATE:Fri Feb 13 19:08:00 GMT-03:00 2015
 
 
 import play.core._
