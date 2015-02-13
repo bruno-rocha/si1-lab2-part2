@@ -13,4 +13,6 @@ public abstract class Recomendacao {
     private Long id;
 
     public abstract String getProximoEpisodio(Temporada temporada);
+
+    public abstract String toString();
 }

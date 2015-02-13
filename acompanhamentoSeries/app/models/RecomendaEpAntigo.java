@@ -23,4 +23,9 @@ public class RecomendaEpAntigo extends Recomendacao{
         }
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "opção de recomendação 2";
+    }
 }

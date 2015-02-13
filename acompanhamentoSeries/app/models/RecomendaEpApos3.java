@@ -36,5 +36,10 @@ public class RecomendaEpApos3 extends Recomendacao{
         }
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "opção de recomendação 3";
+    }
 }
 

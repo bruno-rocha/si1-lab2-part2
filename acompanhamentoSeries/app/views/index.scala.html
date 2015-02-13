@@ -72,7 +72,24 @@
 					<div class="collapse" id="temporadas@serie.getId()">
 						<li class="list-group-item">
 							<h4 class="panel-title"><strong>Como pretende que o sistema recomende seus episódios?</strong></h4>
+							<br>
 							<form action="@routes.Application.setOpcaoRecomendacao(serie.getId())" method="post">
+								<li class="list-group-item">
+								<input type="radio" name="opcao" id="opcao1"
+								value="1" checked> Recomende o mais recente que não vi
+								</li>
+								<li class="list-group-item">
+								<input type="radio" name="opcao" id="opcao2"
+								value="2"> Recomende o mais antigo
+								</li>
+								<li class="list-group-item">
+								<input type="radio" name="opcao" id="opcao2"
+								value="3"> Indique o mais antigo, mas não indique nenhum depois do qual eu já tenha visto 3 ou mais episódios
+								</li>
+								<br>
+								<input class="button bg-primary" type="submit" value="Atualizar" />
+<!--
+
 								<div class="radio">
 										<label>
 											<input class="btn btn-sm glyphicon-check" type="submit" name="opcao" id="opcao1"
@@ -90,8 +107,10 @@
 											<input class="btn btn-sm glyphicon-check" type="submit"  name="opcao" id="opcao2"
 											value="3"> Indique o mais antigo, mas não indique nenhum depois do qual eu já tenha visto 3 ou mais episódios
 										</label>
-								</div>
+								</div>-->
 							</form>
+
+							<h5>Atualmente você está usando a <strong>@serie.getOpcaoRecomendacao.toString</strong></h5>
 						</li>
 					@for(temporada <- serie.getTemporadas()){
 						@if(temporada.getStatus == -1){
@@ -128,9 +147,6 @@
 						@if(temporada.getProximoEpisodio(serie.getOpcaoRecomendacao) != null){
 							<li class="list-group-item"><strong>Próximo:</strong> @temporada.getProximoEpisodio(serie.getOpcaoRecomendacao)</li>
 						}
-<!--
-						<li class="list-group-item"><strong>Próximo ep:</strong> temporada.getProximoEpisodio()</li>
--->
 						</div>
 					}
 					</div>
