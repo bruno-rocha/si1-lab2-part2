@@ -15,9 +15,13 @@
     <script src="@routes.Assets.at("javascripts/hello.js")"></script>        
 </head>
 <body>
-	<div class="container col-md-12">
-		<div class="page-header">
-  			<h1>Onde eu parei?<small>Acompanhe suas séries favoritas e nunca mais esqueça em qual espiódio parou!</small></h1>
+	<div id="bg" class="container col-md-12">
+		<div id="header" class="page-header">
+			<div class="container">
+                <div class="navbar-header">
+                    <h1>Siga Séries</h1>
+                </div>
+            </div>
 		</div>
 		<div class="col-md-6">
 		<div class="panel panel-default">
@@ -67,7 +71,7 @@
 						<form class="badge" action="@routes.Application.desacompanhaSerie(serie.getId())" method="post">
 							<button type="submit" class="close">&#8722;</button>
 						</form>
-						<h5 data-toggle="collapse" data-target="#temporadas@serie.getId()">@serie.getNome()</h5>
+						<h5 data-toggle="collapse" data-target="#temporadas@serie.getId()">@serie.getNome()</h5>						
 					</li>
 					<div class="collapse" id="temporadas@serie.getId()">
 						<li class="list-group-item">
@@ -76,40 +80,20 @@
 							<form action="@routes.Application.setOpcaoRecomendacao(serie.getId())" method="post">
 								<li class="list-group-item">
 								<input type="radio" name="opcao" id="opcao1"
-								value="1" checked> Recomende o mais recente que não vi
+								value="1" checked> Opção 1 - Recomende o mais recente que não vi
 								</li>
 								<li class="list-group-item">
 								<input type="radio" name="opcao" id="opcao2"
-								value="2"> Recomende o mais antigo
+								value="2"> Opção 2 - Recomende o mais antigo
 								</li>
 								<li class="list-group-item">
 								<input type="radio" name="opcao" id="opcao2"
-								value="3"> Indique o mais antigo, mas não indique nenhum depois do qual eu já tenha visto 3 ou mais episódios
+								value="3"> Opção 3 - Indique o mais antigo, mas não indique nenhum depois do qual eu já tenha visto 3 ou mais episódios
 								</li>
 								<br>
-								<input class="button bg-primary" type="submit" value="Atualizar" />
-<!--
-
-								<div class="radio">
-										<label>
-											<input class="btn btn-sm glyphicon-check" type="submit" name="opcao" id="opcao1"
-											value="1"> Recomende o mais recente que não vi
-										</label>
-								</div>
-								<div class="radio">
-										<label>
-											<input class="btn btn-sm glyphicon-check" type="submit"  name="opcao" id="opcao2"
-											value="2"> Recomende o mais antigo
-										</label>
-								</div>
-								<div class="radio">
-										<label>
-											<input class="btn btn-sm glyphicon-check" type="submit"  name="opcao" id="opcao2"
-											value="3"> Indique o mais antigo, mas não indique nenhum depois do qual eu já tenha visto 3 ou mais episódios
-										</label>
-								</div>-->
+								<input class="btn btn-default" type="submit" value="Atualizar" />
 							</form>
-
+							<br>
 							<h5>Atualmente você está usando a <strong>@serie.getOpcaoRecomendacao.toString</strong></h5>
 						</li>
 					@for(temporada <- serie.getTemporadas()){
