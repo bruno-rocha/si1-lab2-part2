@@ -5,7 +5,7 @@ import java.util.List;
 
 import javax.persistence.*;
 
-@Entity
+@Entity(name="Temporada")
 public class Temporada {
 	@Transient
 	public int COMPLETA = 1;
@@ -100,9 +100,9 @@ public class Temporada {
 	public void setQtdEpisodios(int qtdEpisodios) {
 		this.qtdEpisodios = qtdEpisodios;
 	}
-	
-	public String getProximoEpisodio(){
-		String result = episodios.get(0).getNumero() + " - " + episodios.get(0).getNome();
+
+	public String getProximoEpisodio(Recomendacao opcao){
+		/*String result = episodios.get(0).getNumero() + " - " + episodios.get(0).getNome();
 		
 		for (int i = qtdEpisodios-1; i >= 0; i--) {
 			if(episodios.get(i).isAssistido()){
@@ -113,24 +113,13 @@ public class Temporada {
 				break;
 			}
 		}
-
+		
 		/*if(episodios.get(qtdEpisodios-1).isAssistido()){
 			result = "Você já assistiu ao último episódio desta temporada.";
-		}*/
-
-		return result;
-	}
-
-	public String getEpisodioMaisAntigo(){
-		String result = episodios.get(0).getNumero() + " - " + episodios.get(0).getNome();
-
-		for (int i = 0; i <= qtdEpisodios-1; i++) {
-			if(!episodios.get(i).isAssistido()){
-				result = episodios.get(i).getNumero() + " - " + episodios.get(i).getNome();
-				break;
-			}
 		}
-		return result;
+		
+		return result;*/
+		return opcao.getProximoEpisodio(this);
 	}
 	
 	public int verificaStatus(){
