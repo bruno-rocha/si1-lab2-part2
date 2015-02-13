@@ -12,7 +12,7 @@ public class Temporada {
 	@Transient
 	private final int INCOMPLETA = 0;
 	@Transient
-	private final int TOTAL_INCOMPLETA = -1;
+	private final int TOTALINCOMPLETA = -1;
 	
 	@Id
 	@GeneratedValue
@@ -115,7 +115,7 @@ public class Temporada {
 		}
 		
 		if(cont == 0){
-			status = TOTAL_INCOMPLETA;
+			status = TOTALINCOMPLETA;
 		}
 		if(cont > 0) {
 			status = INCOMPLETA;

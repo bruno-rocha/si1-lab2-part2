@@ -21,8 +21,8 @@ public class Global extends GlobalSettings {
 	private List<Serie> series = new ArrayList<>();
 	private static final int SERIE = 0;
 	private static final int TEMPORADA = 1;
-	private static final int NUM_EPISODIO = 2;
-	private static final int NOME_EPISODIO = 3;
+	private static final int NUMEPISODIO = 2;
+	private static final int NOMEEPISODIO = 3;
 
 	@Override
 	public void onStart(Application app) {
@@ -62,8 +62,8 @@ public class Global extends GlobalSettings {
 
 		String serieAtualNome = linha[SERIE];
 		int temporadaAtualNum = TEMPORADA;
-		int epLinhaNum = Integer.parseInt(linha[NUM_EPISODIO]);
-		String episodioAtual = linha[ NOME_EPISODIO];
+		int epLinhaNum = Integer.parseInt(linha[NUMEPISODIO]);
+		String episodioAtual = linha[ NOMEEPISODIO];
 
 		Serie serieAtual = new Serie(serieAtualNome);
 
@@ -75,11 +75,11 @@ public class Global extends GlobalSettings {
 		while((line = br.readLine()) != null){
 			linha = line.split(",");
 
-			if(linha.length >  NOME_EPISODIO){
+			if(linha.length >  NOMEEPISODIO){
 				serieLinha = linha[SERIE];
 				temporadaLinha = Integer.parseInt(linha[TEMPORADA]);
-				epLinhaNum = Integer.parseInt(linha[NUM_EPISODIO]);
-				episodioLinha = linha[ NOME_EPISODIO];
+				epLinhaNum = Integer.parseInt(linha[NUMEPISODIO]);
+				episodioLinha = linha[ NOMEEPISODIO];
 
 				if(serieLinha.equals(serieAtualNome)){
 					if(temporadaLinha == temporadaAtualNum){
