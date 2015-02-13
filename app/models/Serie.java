@@ -23,7 +23,7 @@ public class Serie {
 	@Column
 	private int qtdTemporadas;
 
-
+    @OrderBy("numero")
 	@OneToMany(cascade=CascadeType.ALL)
 	@JoinColumn(name="TEMPS")
 	private List<Temporada> temporadas;

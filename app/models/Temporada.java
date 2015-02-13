@@ -27,7 +27,8 @@ public class Temporada {
 	
 	@ManyToOne(cascade=CascadeType.ALL)
 	private Serie serie;
-	
+
+    @OrderBy("numero")
 	@OneToMany(cascade=CascadeType.ALL)
 	@JoinColumn(name="TEMP_EPS")
 	private List<Episodio> episodios;
