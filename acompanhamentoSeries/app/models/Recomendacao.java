@@ -1,7 +1,6 @@
 package models;
 
 import javax.persistence.*;
-import java.util.List;
 
 /**
  * Created by Bruno on 10/02/2015.

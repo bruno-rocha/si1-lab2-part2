@@ -8,9 +8,9 @@ import javax.persistence.*;
 @Entity(name="Serie")
 public class Serie {
 	@Transient
-	public int EP_SEGUINTE = 1;
+	private int EP_SEGUINTE = 1;
 	@Transient
-	public int EP_MAIS_ANTIGO = 2;
+	private int EP_MAIS_ANTIGO = 2;
 
 	@Id
 	@GeneratedValue
@@ -30,7 +30,7 @@ public class Serie {
 
 	@OneToOne(cascade=CascadeType.ALL, fetch=FetchType.LAZY)
 	@JoinColumn(name="opcao_recomendacao")
-	Recomendacao opcaoRecomendacao;
+	private Recomendacao opcaoRecomendacao;
 
 	public Serie() {
 		temporadas = new ArrayList<>();

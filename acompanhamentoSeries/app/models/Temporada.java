@@ -8,11 +8,11 @@ import javax.persistence.*;
 @Entity(name="Temporada")
 public class Temporada {
 	@Transient
-	public int COMPLETA = 1;
+	private int COMPLETA = 1;
 	@Transient
-	public int INCOMPLETA = 0;
+	private int INCOMPLETA = 0;
 	@Transient
-	public int TOTAL_INCOMPLETA = -1;
+	private int TOTAL_INCOMPLETA = -1;
 	
 	@Id
 	@GeneratedValue
