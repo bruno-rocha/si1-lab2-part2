@@ -102,23 +102,6 @@ public class Temporada {
 	}
 
 	public String getProximoEpisodio(Recomendacao opcao){
-		/*String result = episodios.get(0).getNumero() + " - " + episodios.get(0).getNome();
-		
-		for (int i = qtdEpisodios-1; i >= 0; i--) {
-			if(episodios.get(i).isAssistido()){
-				if((i+1) == qtdEpisodios)
-					result = "Você já assistiu ao último episódio desta temporada.";
-				else	
-					result = episodios.get(i+1).getNumero() + " - " + episodios.get(i+1).getNome();
-				break;
-			}
-		}
-		
-		/*if(episodios.get(qtdEpisodios-1).isAssistido()){
-			result = "Você já assistiu ao último episódio desta temporada.";
-		}
-		
-		return result;*/
 		return opcao.getProximoEpisodio(this);
 	}
 	

@@ -71,8 +71,6 @@
 					</li>
 					<div class="collapse" id="temporadas@serie.getId()">
 						<li class="list-group-item">
-						<div class="panel panel-default">
-							<br>
 							<h4 class="panel-title"><strong>Como pretende que o sistema recomende seus episódios?</strong></h4>
 							<form action="@routes.Application.setOpcaoRecomendacao(serie.getId())" method="post">
 								<div class="radio">
@@ -94,7 +92,6 @@
 										</label>
 								</div>
 							</form>
-						</div>
 						</li>
 					@for(temporada <- serie.getTemporadas()){
 						@if(temporada.getStatus == -1){
